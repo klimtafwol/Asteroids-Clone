@@ -54,9 +54,11 @@ Pilot a ship in open space, destroy incoming asteroid waves, and survive as long
 - Platform: Windows
 
 ## Screenshots
-![Gameplay Action](Media/Meteoroids Action Screenshot.png)
-![Alien Enemy Encounter](Media/Meteoroids Alien Screenshot.png)
-![Main Menu](Media/Meteoroids Main Menu Screenshot.png)
+![Gameplay Action](Media/Meteoroids_Action_Screenshot.png)
+
+![Alien Enemy Encounter](Media/Meteoroids_Alien_Screenshot.png)
+
+![Main Menu](Media/Meteoroids_Main_Menu_Screenshot.png)
 
 ## What I would improve if I were to continue this project
 - Additional enemy types or behaviors
