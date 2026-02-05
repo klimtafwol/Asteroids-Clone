@@ -34,8 +34,7 @@ Pilot a ship in open space, destroy incoming asteroid waves, and survive as long
   - Space: HyperSpace
   - Left Mouse Buttone: Shoot
 - Controller:
-  - Left stick: Movement
-  - Right Stick: Rotation
+  - Left stick: Movement and Rotation
   - trigger: Shoot
   - Face Buttons: Hyperspace
   - (Controller bindings may vary)
@@ -55,7 +54,9 @@ Pilot a ship in open space, destroy incoming asteroid waves, and survive as long
 - Platform: Windows
 
 ## Screenshots
-(Add images here after uploading them to a /Media folder)
+![Gameplay Action](Media/Meteoroids Action Screenshot.png)
+![Alien Enemy Encounter](Media/Meteoroids Alien Screenshot.png)
+![Main Menu](Media/Meteoroids Main Menu Screenshot.png)
 
 ## What I would improve if I were to continue this project
 - Additional enemy types or behaviors
