@@ -4,7 +4,7 @@ A Unity/C# remake of the classic Asteroids arcade game, featuring movement, shoo
 Built as part of a Unity/C# course project. I implemented the core systems below and packaged a playable build.
 
 ## Download
-- Windows build: (link here after creating a GitHub Release)
+- Windows build: https://github.com/KlimTafWol/Asteroids-Clone/releases/latest
 
 ## Gameplay
 Pilot a ship in open space, destroy incoming asteroid waves, and survive as long as possible. As your score increases, the game escalates with faster waves, special abilities, and an aggressive alien enemy ship.
