@@ -1,4 +1,4 @@
-# Asteroids-Clone
+# "Meteoroids" an Asteroids-Clone
 A Unity/C# remake of the classic Asteroids arcade game, featuring movement, shooting, and scoring systems with a modern 3D art style.
 
 Built as part of a Unity/C# course project. I implemented the core systems below and packaged a playable build.
